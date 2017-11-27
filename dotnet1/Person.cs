@@ -15,9 +15,9 @@ namespace Lab1
         }
 
         public Person() {
-            this.first_name = "Dima";
-            this.last_name = "Fagurel";
-            this.birthday = new DateTime(1997, 3, 11);
+            this.first_name = "Alina";
+            this.last_name = "Tymchuk";
+            this.birthday = new DateTime(1997, 2, 08);
         }
 
         public string getFirstName() {return this.first_name;}
